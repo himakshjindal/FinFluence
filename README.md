@@ -1,6 +1,5 @@
 # FinFluence
 A friendly financial literacy resource for students in Class 9–12. Simple lessons, activities and tools to build healthy money habits.
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -380,5 +379,4 @@ A friendly financial literacy resource for students in Class 9–12. Simple less
     }
   </script>
 </body>
-</html>
 
